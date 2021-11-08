@@ -5,6 +5,7 @@ The purpose of this project was to analyze stock data and to practice refactorin
 
 ## Results
 Nearly every stock did better in 2017 than it did in 2018.
+
 2017:
 
 <img width="250" alt="2017_stock_performance" src="https://user-images.githubusercontent.com/18372229/140688029-84787e9a-9199-494f-b311-c92a3dc14858.png">
