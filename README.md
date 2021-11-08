@@ -6,9 +6,11 @@ The purpose of this project was to analyze stock data and to practice refactorin
 ## Results
 Nearly every stock did better in 2017 than it did in 2018.
 2017:
+
 <img width="250" alt="2017_stock_performance" src="https://user-images.githubusercontent.com/18372229/140688029-84787e9a-9199-494f-b311-c92a3dc14858.png">
 
 2018:
+
 <img width="250" alt="2018_stock_performance" src="https://user-images.githubusercontent.com/18372229/140688051-d978db49-19cf-4632-a236-14674489ecb5.png">
 
 Additionally, the refactored code ran significantly faster than the original code.
