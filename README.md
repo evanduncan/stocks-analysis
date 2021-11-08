@@ -15,6 +15,7 @@ Nearly every stock did better in 2017 than it did in 2018.
 <img width="250" alt="2018_stock_performance" src="https://user-images.githubusercontent.com/18372229/140688051-d978db49-19cf-4632-a236-14674489ecb5.png">
 
 Additionally, the refactored code ran significantly faster than the original code.
+
 Original:
 
 <img width="425" alt="2017_stock_analysis_speed" src="https://user-images.githubusercontent.com/18372229/140688163-6c8d8445-0816-46f4-9a73-7c8d61f43540.png">
@@ -28,6 +29,7 @@ Refactored:
 <img width="429" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/18372229/140688234-360f7b0e-9067-420e-a68b-60cb4385ea57.png">
 
 This difference in runtimes is most likely due to the nested for loop in the original code. This is resolved in the refactored code with separate for loops.
+
 Original:
 
 <img width="524" alt="Original_code" src="https://user-images.githubusercontent.com/18372229/140688821-f25d507b-70dc-4e7b-8dcb-d5b21b0b9466.png">
